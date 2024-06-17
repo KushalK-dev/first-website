@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Kushal K
+## About Me
+My name is **Kushal Kanuparthi**, and I go to *West Forsyth High School*.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
+
